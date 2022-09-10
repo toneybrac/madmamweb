@@ -1,0 +1,19 @@
+.footerList {
+    color: gray;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.footerList:hover {
+    background: gray;
+    color: white;
+   
+}
+
+.logo:hover {
+    cursor: pointer;
+}

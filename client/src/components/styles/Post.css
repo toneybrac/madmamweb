@@ -1,0 +1,25 @@
+.post {
+    width: 560px;
+    padding: 10px;
+    border: 1px solid rgb(9, 39, 129);
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.postMain {
+    margin: 10px;
+}
+
+.postRow {
+
+    
+}
+
+.imgCardP {
+    
+}
+
+
+
+

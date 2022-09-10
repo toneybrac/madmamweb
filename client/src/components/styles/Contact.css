@@ -1,0 +1,23 @@
+
+.sh {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sh:hover {
+    border: 1px solid black
+}
+
+.sz {
+    font-size: 20px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    
+
+.col-q {
+    margin-top: 20px;
+}
+
+
+}

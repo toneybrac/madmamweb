@@ -1,0 +1,62 @@
+.sh1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title1 {
+    text-align: center;
+}
+
+.title2 {
+    text-align: center;
+    border-radius: 10px;
+    background: whitesmoke;
+    padding: 6px;
+    margin-left: 340px;
+    margin-right: 340px;
+    color: #ff0e21;
+}
+
+.title3 {
+     text-align: center;
+    border-radius: 10px;
+    background: whitesmoke;
+    padding: 6px;
+    margin-left: 340px;
+    margin-right: 340px;
+    color: #006600;
+
+}
+
+.t {
+    border-radius: 10px;
+    background: whitesmoke;
+    padding-left: 8px;
+    padding-right: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+
+@media only screen and (max-width: 768px) {
+    .search {
+        margin-bottom: 6px;
+       }
+
+       .donate {
+        margin-bottom:10px;
+        margin-top: 10px;
+       }
+
+       .title2 {
+        margin-left: 150px;
+        margin-right: 150px;
+
+       }
+
+       .title3 {
+        margin-left: 150px;
+        margin-right: 150px;
+       }
+
+
+}

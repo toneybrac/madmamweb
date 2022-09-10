@@ -1,0 +1,53 @@
+.sh1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.h:hover {
+    color: white
+}
+
+.ct1 {
+    color: #ff0e21;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ct2 {
+    color: #ff0e21;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ct3 {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ct4 {
+    color: black;
+    font-weight: bold;
+    font-size: 21.5px;
+}
+
+.mrl1 {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .img-mq {
+        width: 370px;
+    }
+
+.col-mq {
+    margin-top: 20px;
+}
+
+.cd-q {
+    margin-top: 20px;
+    
+}
+
+
+}
